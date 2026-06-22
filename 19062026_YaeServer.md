@@ -3,7 +3,7 @@
 
 ---
 
-## RESUMEN EJECUTIVO
+## RESUMEN
 
 **Fecha del Incidente:** 19 de Junio de 2026
 **Fecha de Resolución:** 22 de Junio de 2026
