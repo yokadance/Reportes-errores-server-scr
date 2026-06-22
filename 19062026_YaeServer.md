@@ -5,12 +5,12 @@
 
 ## RESUMEN
 
-**Fecha del Incidente:** 19 de Junio de 2026
-**Fecha de Resolución:** 22 de Junio de 2026
-**Duración Total:** ~3 días
-**Sistema Afectado:** VM YaeServer (UUID: 1fda53a2-a31b-61ca-e419-0866cb44b134)
-**Causa Raíz:** Fallo del subsistema tapdisk a nivel de kernel/hypervisor
-**Solución Aplicada:** Reinicio completo del hypervisor XCP-ng
+** - Fecha del Incidente:** 19 de Junio de 2026
+** - Fecha de Resolución:** 22 de Junio de 2026
+** - Duración Total:** ~3 días
+** - Sistema Afectado:** VM YaeServer (UUID: 1fda53a2-a31b-61ca-e419-0866cb44b134)
+** - Causa Raíz:** Fallo del subsistema tapdisk a nivel de kernel/hypervisor
+** - Solución Aplicada:** Reinicio completo del hypervisor XCP-ng
 
 ---
 
